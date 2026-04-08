@@ -1,13 +1,13 @@
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright (c) 2026 Chantel Whitter
+Copyright (c) 2026 Chantel Whitter-Bartucci
 
 You are free to:
   - Share: copy and redistribute this in any medium or format
   - Adapt: remix, transform, and build upon this for any team
 
 Under the following terms:
-  - Attribution: You must give appropriate credit to Chantel Whitter
+  - Attribution: You must give appropriate credit to Chantel Whitter-Bartucci
     and indicate if changes were made.
   - NonCommercial: You may not use this for commercial purposes
     or sell this widget in any form.
