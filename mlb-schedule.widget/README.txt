@@ -1,6 +1,6 @@
 ================================================
   MLB Schedule Widget for Übersicht
-  Created by Chantel Whitter, 2026
+  Created by Chantel Whitter-Bartucci, 2026
 ================================================
 
 A live MLB desktop widget for Mac that shows your
@@ -82,7 +82,7 @@ FEATURES
 LICENSE
 ------------------------------------------------
 Free for personal use. See LICENSE.txt for details.
-© 2026 Chantel Whitter — CC BY-NC 4.0
+© 2026 Chantel Whitter-Bartucci — CC BY-NC 4.0
 Do not sell or redistribute for profit.
 
 ------------------------------------------------
