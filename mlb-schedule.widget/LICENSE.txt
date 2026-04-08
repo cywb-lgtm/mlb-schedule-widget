@@ -1,0 +1,18 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 Chantel Whitter
+
+You are free to:
+  - Share: copy and redistribute this in any medium or format
+  - Adapt: remix, transform, and build upon this for any team
+
+Under the following terms:
+  - Attribution: You must give appropriate credit to Chantel Whitter
+    and indicate if changes were made.
+  - NonCommercial: You may not use this for commercial purposes
+    or sell this widget in any form.
+
+Full license: https://creativecommons.org/licenses/by-nc/4.0/
+
+This widget uses publicly available MLB Stats API data.
+MLB trademarks and data are property of Major League Baseball.
